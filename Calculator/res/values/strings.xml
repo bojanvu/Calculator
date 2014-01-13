@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_zero">0</string>
+    <string name="button_one">1</string>
+    <string name="button_two">2</string>
+    <string name="button_three">3</string>
+    <string name="button_four">4</string>
+    <string name="button_five">5</string>
+    <string name="button_six">6</string>
+    <string name="button_seven">7</string>
+    <string name="button_eight">8</string>
+    <string name="button_nine">9</string>
+    <string name="button_add">+</string>
+    <string name="button_subtract">-</string>
+    <string name="button_multiply">*</string>
+    <string name="button_divide">/</string>
+    <string name="button_toggle_sign">+/-</string>
+    <string name="button_decimal_point">.</string>
+    <string name="button_equals">=</string>
+    <string name="button_clear">C</string>
+    <string name="button_clear_memory">MC</string>
+    <string name="button_add_to_memory">M+</string>
+    <string name="button_subtract_from_memory">M-</string>
+    <string name="button_recall_memory">MR</string>
+    <string name="button_square_root">sqrt</string>
+    <string name="button_squared">x2</string>
+    <string name="button_invert">1/x</string>
+    <string name="button_sine">sin</string>
+    <string name="button_cosine">cos</string>
+    <string name="button_tangent">tan</string>
+    <string name="button_backspace">X</string>
+    <string name="textview_display">0</string>
+
+</resources>
